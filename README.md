@@ -1,4 +1,4 @@
-# MITRE-ATTACK_Reconnaissance
+# Python for Reconnaissance
 
 
 ## Objective
